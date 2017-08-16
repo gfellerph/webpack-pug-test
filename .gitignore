@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+dist/
+public
+server/server.js
+npm-debug.log
+yarn-error.log
+webpack.manifest.json
